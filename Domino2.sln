@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domino2", "Assembly-CSharp-firstpass.csproj", "{DC3001ED-7A5B-450C-49D5-A896F26788AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domino2", "Assembly-CSharp.csproj", "{7B81B908-1AA6-48D8-57DA-90C9F9D241A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3001ED-7A5B-450C-49D5-A896F26788AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3001ED-7A5B-450C-49D5-A896F26788AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3001ED-7A5B-450C-49D5-A896F26788AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3001ED-7A5B-450C-49D5-A896F26788AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B81B908-1AA6-48D8-57DA-90C9F9D241A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B81B908-1AA6-48D8-57DA-90C9F9D241A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B81B908-1AA6-48D8-57DA-90C9F9D241A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B81B908-1AA6-48D8-57DA-90C9F9D241A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
